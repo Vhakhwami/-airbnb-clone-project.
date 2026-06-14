@@ -3,7 +3,7 @@
 This project is about Airbnb-clone application to test my ability to develop a booking  management system
 
 
-TEAM ROLES
+<TEAM ROLES>
 Business analyst (BA) >>> Understands customer’s business processes, Translates customer business needs into requirements
 Product owner (PO) >>> Holds responsibility for a product vision and evolution, Makes sure the final product meets customer requirements
 UI/UX designer >>> Transforms a product vision into user-friendly designs,Creates user journeys for the best user experience and highest conversion rates
